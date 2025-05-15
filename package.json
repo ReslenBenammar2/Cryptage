@@ -1,0 +1,25 @@
+{
+  "name": "spacex",
+  "version": "1.0.0",
+  "description": "HTML/CSS/JS SpaceX website clone project from the [YouTube tutorial](https://www.youtube.com/watch?v=wryPX7KSwSc). It is not the entire website, but the homepage, a few inner pages with the CSS animations, mobile menu and the JavaScript countdown effect.",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "Cryptage.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.21.2",
+    "hbs": "^4.2.0",
+    "i": "^0.3.7",
+    "mongodb": "^6.15.0",
+    "mongoose": "^7.8.6",
+    "nodemailer": "^6.9.7"
+  }
+}
